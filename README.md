@@ -9,4 +9,4 @@ The [KittyScan](https://kittyscan.com) scanners are not exempt from this list.
 
 > No pull requests will be accepted for this list. Only IPs detected by KittyScan will be added to this list.
 
-The ips are separated by new lines. `ips-16.txt` and `ips-24.txt` are the same list but as a /16 and /24 subnet respectively.
+The IPs are separated by new lines. `ips-16.txt` and `ips-24.txt` are the same list but as a /16 and /24 subnet respectively.
