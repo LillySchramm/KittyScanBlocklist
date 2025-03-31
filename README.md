@@ -1,5 +1,5 @@
 # KittyScanBlocklist
-A list of IPs detected to be scanning for minecraft servers.
+A list of IPs detected to be scanning for minecraft servers. The default blocklist for [KittyBlock](https://www.spigotmc.org/resources/kittyblock.123679/).
 
 These IPs are detected by the [KittyScan](https://kittyscan.com) honeypots. This list is updated every 12 hours. Any IPs that have not been detected in the last 14 days will be removed from the list.
 
